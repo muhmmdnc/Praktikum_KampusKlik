@@ -5,7 +5,7 @@ Muhammad Nurcholis
 2210631250091
 
 ## Mata Kuliah
-Pemerograman Berbasis Web
+Pemrograman Berbasis Web
 
 ## Dosen Pengampu
 Kamal Prihandani, M.Kom

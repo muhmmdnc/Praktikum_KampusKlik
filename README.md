@@ -8,4 +8,4 @@ Muhammad Nurcholis
 Pemerograman Berbasis Web
 
 ## Dosen Pengampu
-Kamal Prihandani,M.KOM
+Kamal Prihandani, M.Kom
